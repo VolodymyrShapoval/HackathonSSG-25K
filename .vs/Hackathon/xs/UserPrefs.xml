@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{B92EB676-6D9C-4B39-A5E1-35021AFA3B43}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hackathon/Areas/Identity/Pages/Account/Register.cshtml.cs">
+    <Files>
+      <File FileName="Hackathon/Controllers/AccountController.cs" Line="1" Column="1" />
+      <File FileName="Hackathon/Program.cs" Line="37" Column="20" />
+      <File FileName="Hackathon/appsettings.Development.json" Line="11" Column="4" />
+      <File FileName="Hackathon/Areas/Identity/Pages/Account/Register.cshtml" Line="74" Column="34" />
+      <File FileName="Hackathon/Areas/Identity/Pages/Account/Login.cshtml" Line="1" Column="1" />
+      <File FileName="Hackathon/Areas/Identity/Pages/Account/Register.cshtml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hackathon" expanded="True">
+            <Node name="Hackathon" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True">
+                      <Node name="Register.cshtml" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Hackathon PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/volodymyr.shapoval/Documents/Hackathon/Hackathon/Hackathon/Areas/Identity/Pages/Account/Register.cshtml.cs" relfile="Hackathon/Areas/Identity/Pages/Account/Register.cshtml.cs" line="124" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
